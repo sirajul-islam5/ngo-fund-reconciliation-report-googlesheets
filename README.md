@@ -1,6 +1,6 @@
 # 🏥 NGO Fund Utilization & Reconciliation Simulation Report — Google Sheets
 
-A self-driven financial reconciliation project simulating how an NGO tracks, compares, and analyzes budget utilization across multiple districts, program areas, and donors. Built entirely in Google Sheets using a four-tab workbook structure for a fictional organization, **Asha Foundation**.
+A self-driven financial reconciliation project simulating how an NGO tracks, compares, and analyzes budget utilization across multiple districts, program areas, and donors. Built entirely in Google Sheets using a four-tab workbook structure for a fictional organization, **Asha Foundation**. 
 
 ---
 
